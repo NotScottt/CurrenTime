@@ -43,9 +43,6 @@ Prints the current time always in right format
 Prints the current date always in right format
 
 
-
-
-
 ## Note
 this is a very simple library, i may upgrade it later 
 (e.g. correct timeformat for other Countries).
