@@ -1,4 +1,3 @@
-# Written by @NotScottt on Github
 import datetime
 
 
