@@ -48,8 +48,4 @@ Prints the current date always in right format
 
 ## Note
 this is a very simple library, i may upgrade it later 
-<<<<<<< HEAD
 (e.g. correct timeformat for other Countries).
-=======
-(e.g. correct timeformat for other Countries).
->>>>>>> 6fa19ce2529e49c6f87ad80b0e28ffa637f8f523
